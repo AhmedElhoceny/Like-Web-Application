@@ -1,0 +1,85 @@
+﻿@model LikeFinal_Version.Models.Users
+
+@{
+    ViewData["Title"] = "LuckyBox";
+}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Weiben - Wheel of fortune</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="~/Style/styles2.css">
+    <link rel="stylesheet" href="~/Style/Style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="~/Logos/Like+.png">
+</head>
+
+<body>
+    <div class="PlaceHolder" onclick="HideAllForms2()"></div>
+    <div class="NavStatistics">
+        <img src="~/Logos/Like.png" />
+        <a asp-action="Index" asp-controller="Home">LogOut</a>
+    </div>
+    <div class="CoinsData">
+        <img src="~/Imgs/dollar.png">
+        <p>@Model.Coins</p>
+    </div>
+    <div class="LuckyRate">
+        <div>
+            <p>3-Chanecs</p>
+            <p>6-Chances</p>
+            <p>Golden Chance</p>
+        </div>
+        <div>
+            <div style="background-color: #ffd7002e;"></div>
+            <div style="background-color: #ffd7002e;"></div>
+            <div style="background-color: #ffd7002e;"></div>
+        </div>
+        <div>
+            <p>10 Coin</p>
+            <p>50 Coin</p>
+            <p>100 Coin</p>
+        </div>
+    </div>
+    <div class="CentrallContainer">
+        <div id="app">
+            <div class="contain-maker"></div>
+            <img class="marker" src="~/Imgs/marker.png" />
+            <img class="wheel" src="~/Imgs/lucky_wheel.png" />
+
+
+            <div class="container_point" style="display: none;">
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+            </div>
+        </div>
+        <div class="ControllBuutons">
+            <div class="text"></div>
+            @if (Model.NumberOfLuck > 0)
+            {
+                <button class="button" style="background-color: #347db2b0;" onclick="SwippingFin(@(Model.UserID) , 'Daily Action')">Try Your Luck</button>
+            }
+            else if (Model.Coins > 100)
+            {
+                <button class="button" style="background-color: #347db2b0;" onclick="SwippingFin(@(Model.UserID) , 'Pay Money')">Try For 100 Coins</button>
+            }
+            else
+            {
+                <button disabled="disabled" class="button" style="background-color: #347db2b0;">Try Your Luck</button>
+            }
+            <button style="background-color: #98b23a82;">Charge Coins</button>
+        </div>
+    </div>
+    <script src="~/Scripts/script2.js"></script>
+</body>
+
+</html>

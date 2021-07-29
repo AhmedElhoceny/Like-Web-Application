@@ -1,0 +1,35 @@
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\bin\Release\netcoreapp2.1\appsettings.json
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\bin\Release\netcoreapp2.1\LikeFinal Version.deps.json
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\bin\Release\netcoreapp2.1\LikeFinal Version.runtimeconfig.json
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\bin\Release\netcoreapp2.1\LikeFinal Version.runtimeconfig.dev.json
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\bin\Release\netcoreapp2.1\LikeFinal Version.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\bin\Release\netcoreapp2.1\LikeFinal Version.pdb
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\bin\Release\netcoreapp2.1\LikeFinal Version.Views.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\bin\Release\netcoreapp2.1\LikeFinal Version.Views.pdb
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.AssemblyInfoInputs.cache
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.AssemblyInfo.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.csproj.CoreCompileInputs.cache
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.RazorAssemblyInfo.cache
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.RazorAssemblyInfo.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.TagHelpers.input.cache
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.TagHelpers.output.cache
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.RazorCoreGenerate.cache
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\ArabicPage.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\LuckyBox.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\Profile.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\ShareLink.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\SoonView.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\YoutubeChannelsSuscribes.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\YoutubeComments.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\YoutubeLikes.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Home\YouTubeViews.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\Razor\_ViewImports.cshtml.g.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.RazorTargetAssemblyInfo.cache
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.RazorTargetAssemblyInfo.cs
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.Views.pdb
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.pdb
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.genruntimeconfig.cache
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\LikeFinal Version.csproj.CopyComplete

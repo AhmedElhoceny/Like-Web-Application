@@ -1,0 +1,157 @@
+﻿@model Like.Models.ViewModel3
+
+@{
+    ViewData["Title"] = "YouTubeViews";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/Style/Style.css">
+    <link rel="icon" href="~/Logos/Like+.png">
+    <title>Like+</title>
+</head>
+<body class="ProfileClass">
+    <div class="PlaceHolder" onclick="HideAllForms2()"></div>
+    <div class="NavStatistics">
+        <img src="~/Logos/Like.png" />
+        <a asp-action="Index">LogOut</a>
+    </div>
+    <div class="Statistics_YouTube">
+        <div class="ControllBar">
+            <div class="BigCon">
+                <div class="Coins">
+                    <img src="~/Imgs/dollar.png">
+                    <p>@Model.Client.Coins</p>
+                </div>
+                <a asp-action="LuckyBox" asp-controller="Home" asp-route-id="@Model.Client.UserID" style="display:block">AddCoins</a>
+            </div>
+        </div>
+        <div class="CentralBodyToContain">
+            <div class="CenterContainer">
+                <div class="Youtube_Views">
+                    <div class="TakeAction">
+                        <img src="~/Imgs/video-play-button.png" onclick="YoutubeViewsFetchApi(@(Model.Client.UserID))">
+                        <p></p>
+                    </div>
+                    <div class="AddItems" style="overflow-y: auto;">
+                        <button onclick="ShowAddNewItem()">AddItem</button>
+                        @foreach (var item in Model.AllData.UserData)
+                        {
+                    <div class="ItemContent">
+                        <img src="~/Imgs/page-views.png">
+                        <p>Views : @item.Value</p>
+                        <img class="DeleteIcon" onclick="DeleteThisItem(@(item.YoutubeData.ItemID) , 'Views' , @(Model.Client.UserID))" src="~/Imgs/delete.png" />
+                    </div>
+                        }
+                    </div>
+                </div>
+                <div class="Youtube_Likes" style="display: none;">
+                    <div class="TakeAction">
+                        <img src="../Imgs/png-clipart-facebook-like-button-facebook-inc-facebook-text-hand.png">
+                    </div>
+                    <div class="AddItems" style="overflow-y: auto;">
+                        <button>AddItem</button>
+                        <div class="ItemContent">
+                            <img src="./Imgs/Data.png">
+                            <p>Likes : 250</p>
+                        </div>
+                        <div class="ItemContent">
+                            <img src="../Imgs/Data.png">
+                            <p>Likes : 250</p>
+                        </div>
+                        <div class="ItemContent">
+                            <img src="../Imgs/Data.png">
+                            <p>Likes : 250</p>
+                        </div>
+                        <div class="ItemContent">
+                            <img src="../Imgs/Data.png">
+                            <p>Likes : 250</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="Youtube_Comment" style="left: 2%;display: none;">
+                <div class="TakeAction">
+                    <img src="../Imgs/comments-1.png">
+                </div>
+                <div class="AddItems" style="overflow-y: auto;">
+                    <button>AddItem</button>
+                    <div class="ItemContent">
+                        <img src="../Imgs/Data.png">
+                        <p>Comments : 250</p>
+                    </div>
+                    <div class="ItemContent">
+                        <img src="../Imgs/Data.png">
+                        <p>Comments : 250</p>
+                    </div>
+                </div>
+            </div>
+            <div class="Youtube_Subscribe" style="left: 2%;display: none;">
+                <div class="TakeAction">
+                    <img src="../Imgs/Addsubscribe-1.png">
+                </div>
+                <div class="AddItems" style="overflow-y: auto;">
+                    <button>AddItem</button>
+                    <div class="ItemContent">
+                        <img src="../Imgs/Data.png">
+                        <p>Subscribe : 250</p>
+                    </div>
+                    <div class="ItemContent">
+                        <img src="../Imgs/Data.png">
+                        <p>Subscribe : 250</p>
+                    </div>
+                </div>
+            </div>
+            <div class="ProfileContent" style="display: none;">
+                <div class="ProfileData">
+                    <img src="../Imgs/Pierre-Person.jpg">
+                    <p>Name : Ahmed</p>
+                    <p>Email : Ahmed@gmail.com</p>
+                </div>
+                <form class="ChangeData">
+                    <input  type="password" required placeholder="Current Password">
+                    <input  type="password" required placeholder="New Password">
+                    <button type="submit">Edit</button>
+                </form>
+            </div>
+            <div class="ChooseActionIons">
+                <a asp-action="YouTubeViews" asp-controller="Home" asp-route-id="@Model.Client.UserID" class="ChooseIcon1"></a>
+                <a asp-action="YoutubeLikes" asp-controller="Home" asp-route-Clientid="@Model.Client.UserID" class="ChooseIcon2"></a>
+                <a asp-action="YoutubeComments" asp-controller="Home" asp-route-Clientid="@Model.Client.UserID" class="ChooseIcon3"></a>
+                <a asp-action="YoutubeChannelsSuscribes" asp-controller="Home" asp-route-Clientid="@Model.Client.UserID" class="ChooseIcon4"></a>
+            </div>
+        </div>
+    </div>
+    <div class="Soon" style="display: none;">
+        <p>Soon</p>
+        <img src="../Imgs/icons8-coming-soon-50.png">
+    </div>
+    <div class="ControllFooter">
+        <a asp-action="YouTubeViews" asp-controller="Home" asp-route-id="@Model.Client.UserID" class="ControlImage1"></a>
+        <a class="ControlImage2" asp-controller="Home" asp-action="SoonView" asp-route-id="@Model.Client.UserID"></a>
+        <a class="ControlImage3" asp-controller="Home" asp-action="SoonView" asp-route-id="@Model.Client.UserID"></a>
+        <a class="ControlImage4" asp-controller="Home" asp-action="SoonView" asp-route-id="@Model.Client.UserID"></a>
+        <a asp-action="Profile" asp-controller="Home" asp-route-id="@Model.Client.UserID" class="ControlImage5"></a>
+    </div>
+    <form class="PutNumberCoins ShowDataForm">
+        <input type="number" placeholder="Add Coins">
+        <button style="margin: auto;background-color: gold;">Buy</button>
+    </form>
+    <form class="AddNewItem ShowDataForm" style="height: 302px;background-color: rgba(44, 53, 57, 0.68);" enctype="multipart/form-data" asp-controller="Home" asp-action="YouTubeViewsPost">
+        <input required type="hidden" name="ClientID" value="@Model.Client.UserID">
+        <input required  type="text" placeholder="ItemLink" name="ItemLink">
+        <input required type="number" placeholder="Coins Number" name="Coins">
+        <input required type="number" placeholder="Video Time" name="VideoTime">
+        <button style="margin: auto;background-color: #4f0;">Add</button>
+    </form>
+    <div class="ListIsEmpty" style="height: 302px;background-color: rgba(44, 64, 48, 0.8);">
+        <p>Video list is empty </p>
+        <img src="~/Imgs/box.png">
+    </div>
+    <script src="~/Scripts/Script.js"></script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\196-1963020_website-backgrounds-website-login-page-background.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\Addsubscribe-1.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\box.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\button.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\Change.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\comments-1.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\comments.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\Data.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\delete.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\dollar.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\fb_button_login.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\gmail.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\googleplussignin.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\iconfinder_299074_youtube_social_icon_64px.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\iconfinder_3225191_app_instagram_logo_media_popular_icon_64px.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\iconfinder_5296499_fb_facebook_facebook logo_icon_256px.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\iconfinder_5296515_bird_tweet_twitter_twitter logo_icon_128px.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\icons8-coming-soon-50.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\lucky_wheel.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\marker.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\menu-png-icon-5.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\page-views.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\pexels-andrea-piacquadio-774909.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\pexels-anwar-hossain-1055071.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\pexels-pixabay-220453.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\pexels-pok-rie-6029883.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\pexels-tracy-le-blanc-607812.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\Pierre-Person.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\png-clipart-facebook-like-button-facebook-inc-facebook-text-hand.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\smartphones.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\subscribe-1.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\user.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\video-play-button.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\video-player.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Imgs\wheel.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Logos\Component 1 – 1.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Logos\Like+.svg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Logos\Like.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Logos\MakeSupport.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Logos\ShareLikes.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Logos\Web 1920 – 1.pdf
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Logos\Web 1920 – 1.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Profiles\Microsoft.AspNetCore.Http.Internal.FormFile0554ee9fec2cb02243312f7f502291bb.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Profiles\Microsoft.AspNetCore.Http.Internal.FormFile1-Steve-Jobs.jpg
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Profiles\Microsoft.AspNetCore.Http.Internal.FormFile1.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Profiles\Microsoft.AspNetCore.Http.Internal.FormFiledollar.png
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Scripts\Script.js
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Scripts\script2.js
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Style\Style.css
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\Style\styles2.css
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\LikeFinal Version.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\LikeFinal Version.runtimeconfig.json
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\LikeFinal Version.pdb
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.Core.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.DotNet.PlatformAbstractions.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Design.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.VisualStudio.Web.BrowserLink.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\NuGet.Frameworks.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\Remotion.Linq.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Composition.AttributedModel.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Composition.Convention.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Composition.Hosting.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Composition.Runtime.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Composition.TypedParts.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Interactive.Async.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.IO.Pipelines.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\System.Security.Principal.Windows.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.0\System.Security.Principal.Windows.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Security.Principal.Windows.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\LikeFinal Version.Views.dll
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\LikeFinal Version.Views.pdb
+E:\self study\WEB\projects\LikeFinal Version\LikeFinal Version\obj\Release\netcoreapp2.1\PubTmp\Out\LikeFinal Version.deps.json

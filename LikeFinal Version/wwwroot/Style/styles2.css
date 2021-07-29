@@ -1,0 +1,155 @@
+#app {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 0px;
+}
+body {
+    height: 700px;
+    background-repeat: repeat;
+    background-image: url('../Imgs/pexels-pok-rie-6029883.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: start;
+}
+.contain-maker {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    background-color: #fad961;
+    border-radius: 50%;
+    top: 60%;
+    left: 41%;
+    z-index: 3;
+}
+
+.marker {
+    position: absolute;
+    width: 60px;
+    z-index: 1;
+    transform: rotateZ(180deg);
+    border-radius: 50%;
+    top: 51%;
+    left: 43%;
+}
+
+.wheel {
+    width: 100%;
+    height: 100%;
+}
+
+.text {
+    font-size: 29px;
+    align-self: center;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    width: 250px;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+.blur {
+    animation: blur 10s;
+}
+
+@keyframes blur {
+    0% {
+        filter: blur(1.5px);
+    }
+    80% {
+        filter: blur(1.5px);
+    }
+    100% {
+        filter: blur(0px);
+    }
+}
+
+.container_point {
+    position: fixed;
+    transform-origin: center;
+    background-color: transparent;
+    top: 90px;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+.container_point p {
+    position: absolute;
+    color: #fff;
+}
+
+.container_point p:first-of-type {
+    position: absolute;
+    top: 219px;
+    left: 162px;
+}
+
+.container_point p:nth-of-type(2) {
+    top: 250px;
+    left: 104px;
+}
+
+.container_point p:nth-of-type(3) {
+    top: 314px;
+    left: 76px;
+}
+
+.container_point p:nth-of-type(4) {
+    top: 223px;
+    left: 244px;
+}
+
+.container_point p:nth-of-type(5) {
+    top: 380px;
+    left: 88px;
+}
+
+.container_point p:nth-of-type(6) {
+    top: 405px;
+    left: 281px;
+}
+
+.container_point p:nth-of-type(7) {
+    top: 424px;
+    left: 206px;
+}
+
+.container_point p:nth-of-type(8) {
+    top: 417px;
+    left: 129px;
+}
+
+.container_point p:nth-of-type(9) {
+    top: 264px;
+    left: 295px;
+}
+
+.container_point p:nth-of-type(10) {
+    top: 330px;
+    left: 306px;
+}
+@media only screen and (max-width: 600px) {
+    #app {
+        width: 400px;
+        height: 400px;
+        margin: 153px auto;
+        position: relative;
+        padding-top: 52px;
+    }
+}
+

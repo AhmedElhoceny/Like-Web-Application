@@ -1,0 +1,1356 @@
+*{
+    padding:0px;
+    margin: 0px;
+    outline: none;
+    scroll-behavior: smooth;
+}
+a{
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
+
+.ProfileClass {
+    height: 700px;
+    background-repeat: repeat;
+    background-image: url('../Imgs/pexels-pok-rie-6029883.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: start
+}
+.DeleteIcon {
+    cursor: pointer;
+    left: 88% !important;
+}
+.GeneralBody {
+    height: 700px;
+    background-repeat: repeat;
+    background-image: url('../Imgs/196-1963020_website-backgrounds-website-login-page-background.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+    .GeneralBody form {
+        align-self: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: start;
+        width: 412px;
+        background-color: #234e7982;
+        height: 366px;
+        border-radius: 16px;
+        position: relative;
+        top: -35px;
+    }
+
+        .GeneralBody form img {
+            width: 123px;
+            height: 72px;
+            align-self: center;
+            position: relative;
+        }
+
+        .GeneralBody form input {
+            width: 80%;
+            height: 36px;
+            background-color: #5AAEF7;
+            border: none;
+            border-radius: 5px;
+            align-self: center;
+            margin: 21px;
+            color: #fff;
+            font-size: 21px;
+            padding: 9px;
+        }
+
+        .GeneralBody form button {
+            width: 108px;
+            height: 44px;
+            background-color: #40e4cd;
+            border: none;
+            border-radius: 10px;
+            align-self: center;
+            font-size: 23px;
+            color: #fff;
+            margin-top: 28px;
+        }
+
+    .GeneralBody button {
+        cursor: pointer;
+    }
+
+.Body1 {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: start;
+    background-image: url("../Imgs/pexels-tracy-le-blanc-607812.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.Body1 .Nav{
+    width: 100%;
+    height: 83px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+}
+.Body1 .Nav img{
+    width: 144px;
+    height: 79px;
+    align-self: center;
+    border: none;
+    margin-left: 93px;
+}
+.Body1 .Nav .RightNav{
+    height: 100%;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content:flex-start;
+    align-self: center;
+    list-style: none;
+}
+.Body1 .Nav .RightNav li{
+    color: #fff;
+    font-weight: bold;
+    margin-right: 41px;
+    list-style: none;
+    align-self: center;
+}
+.Body1 .Nav .RightNav li a{
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+.Body1 .Nav .RightNav>a{
+    width: 50px;
+    height: 39px;
+    border-radius: 50%;
+    background-color: #5AAEF7;
+    border: none;
+    color: #fff;
+    font-size: 26px;
+    align-self: center;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 33px;
+    text-decoration:none
+}
+.Body1>p{
+    color: #fff;
+    font-size: 39px;
+    margin-left: 93px;
+    top: 32%;
+    position: relative;
+}
+.Body1>button{
+    width: 187px;
+    height: 64px;
+    border: 2px solid #5AAEF7;
+    background: none;
+    color: #5AAEF7;
+    font-size: 43px;
+    text-align: center;
+    transition: background 0.3s linear;
+    cursor: pointer;
+    position: relative;
+    top: 35%;
+    margin-left: 93px;
+    border-radius: 10px;
+}
+.Body1>button:hover{
+    background-color: #5AAEF7;
+    color: #fff;
+}
+/* ******************************************* */
+.body2{
+    width: 100%;
+    height: 400px;
+    background-color: none;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: nowrap;
+    justify-content:center;
+    text-align: center;
+}
+.body2 h2{
+    color: #5AAEF7;
+    font-size: 53px;
+    align-self: center;
+    margin-bottom: 31px;
+}
+.body2 p{
+    color: #463E3B;
+    font-size: 23px;
+    align-self: center;
+}
+/* *************************************** */
+.CoinsData {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;
+}
+
+    .CoinsData img {
+        width: 60px;
+        height: 60px;
+        align-self: center;
+    }
+
+    .CoinsData p {
+        text-align: center;
+        align-self: center;
+        font-size: 30px;
+        color: gold;
+    }
+.LuckyRate {
+    width: 80%;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-self: center;
+    margin-top: 15px;
+}
+
+    .LuckyRate div {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-self: center;
+        width: 100%;
+        height: 100%;
+    }
+
+        .LuckyRate div p {
+            color: #fff;
+            font-size: 20px;
+            align-self: center;
+        }
+
+        .LuckyRate div div {
+            width: 33%;
+            height: 77%;
+        }
+.CentrallContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+    .CentrallContainer .ControllBuutons {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        width: 374px;
+        height: 280px;
+        margin-top: 126px;
+        margin-right: 199px;
+    }
+
+        .CentrallContainer .ControllBuutons button {
+            width: 206px;
+            height: 68px;
+            border-radius: 10px;
+            font-size: 24px;
+            text-align: center;
+            color: #fff;
+            align-self: center;
+            cursor: pointer;
+        }
+
+/*********************************************/
+.body3{
+    width: 100%;
+    height: 400px;
+    background-color: none;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: nowrap;
+    justify-content:center;
+    text-align: center;
+}
+.body3 h2{
+    color: #5AAEF7;
+    font-size: 53px;
+    align-self: center;
+    margin-bottom: 31px;
+}
+.body3>div{
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content:space-evenly;
+}
+.body3>div img{
+    width: 23%;
+    height: 100%;
+    border-radius: 18px;
+    cursor: pointer;
+    opacity: 1;
+    transition: opacity 0.3s linear;
+}
+.body3>div img:hover{
+    opacity:0.7
+}
+/* ********************************* */
+.body4{
+    width: 100%;
+    height: 400px;
+    background-color: none;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: nowrap;
+    justify-content:center;
+    text-align: center;
+    margin-top: 100px;
+}
+.body4 h2{
+    color: #5AAEF7;
+    font-size: 53px;
+    align-self: center;
+    margin-bottom: 50px;
+}
+.body4>div{
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content:space-evenly;
+}
+.body4>div img{
+    width: 8%;
+    height: 33%;
+    border-radius: 50%;
+    cursor: pointer;
+}
+/* ******************************* */
+.Footer{
+    width: 100%;
+    height: 300px;
+    background-color: #5aaef7b4;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+}
+.Footer .footerleft{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin-left: 104px;
+}
+.Footer .footerleft>div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-self: flex-start;
+}
+.Footer .footerleft>div img{
+    width: 38px;
+    height: 35px;
+    border-radius: 50%;
+    border: none;
+}
+.Footer .footerleft>div p{
+    color: #fff;
+    font-size: 23px;
+    margin-left: 5px;
+}
+.footerright{
+    display: flex;
+    flex-direction:column;
+    flex-wrap: nowrap;
+    justify-content:space-evenly; 
+    margin-right: 104px;
+}
+.footerright textarea{
+    width: 247px;
+    height: 138px;
+    background-color: #EAE6E5BA;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+}
+.footerright button{
+    width: 107px;
+    height: 44px;
+    border-radius: 15px;
+    background-color: #F20205;
+    text-align: center;
+    color: #fff;
+    border: none;
+    font-size: 25px;
+    align-self: center;
+    cursor: pointer;
+}
+/* ***************************** */
+.ListIsEmpty {
+    width: 286px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    position: absolute;
+    top: -200%;
+    transition: top 0.3s ease-in-out;
+    background-color: rgba(255, 217, 0, 0.678);
+    border-radius: 20px;
+    z-index: 5;
+    height: 196px;
+    align-self: center;
+}
+
+    .ListIsEmpty p {
+        color: #a3e440;
+        font-size: 35px;
+        align-self: center;
+        text-align: center;
+    }
+
+    .ListIsEmpty img {
+        width: 86px;
+        height: 77px;
+        border: none;
+        align-self: center;
+        margin-top: 11px;
+    }
+/*********************************/
+.LogIn {
+    width: 286px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: start;
+    position: absolute;
+    top: -200%;
+    transition: top 0.3s ease-in-out;
+    background-color: #5AAEF7AB;
+    border-radius: 20px;
+    height: 308px;
+    z-index: 5;
+}
+.LogIn input{
+    width: 90%;
+    height: 40px;
+    border-radius: 6px;
+    align-self: center;
+    margin-top: 32px;
+    background: none;
+    border: 3px #fff solid;
+    font-size: 20px;
+    color: #fff;
+}
+.LogIn button{
+    width: 130px;
+    height: 50px;
+    background-color: #5aaef7;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 25px;
+    align-self: center;
+    margin-top: 26px;
+
+}
+.LogIn p{
+    color: red;
+    font-size: 19px;
+    text-decoration: underline;
+    align-self: center;
+    margin-top: 19px;
+}
+.LogIn>img{
+    width: 70%;
+    height: 41px;
+    align-self: center;
+    margin-top: 5px !important;
+    border: none;
+    cursor: pointer;
+}
+/* ********************************* */
+.PlaceHolder ,.PlaceHolder2{
+    width: 100%;
+    height: 700px;
+    position: absolute;
+    top: 0px;
+    z-index: 2;
+    opacity: 0;
+    display: none;
+}
+/* ************************************ */
+.Sign {
+    width: 323px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: start;
+    position: absolute;
+    top: 60px;
+    transition: left 0.3s ease-in-out;
+    left: -100%;
+    background-color: #5AAEF7AB;
+    border-radius: 20px;
+    height: 568px;
+    z-index: 5;
+}
+.ProfileViewBody {
+    background-image: url('../Imgs/pexels-pok-rie-6029883.jpg')
+}
+.Sign input {
+    width: 90%;
+    height: 40px;
+    border-radius: 6px;
+    align-self: center;
+    margin-top: 32px;
+    background: none;
+    border: 3px #fff solid;
+    font-size: 20px;
+    color: #fff;
+}
+.Sign label{
+    display: block;
+    align-self: center;
+    font-size: 25px;
+    color: #fff;
+    margin-top: 32px;
+}
+.Sign button{
+    width: 130px;
+    height: 50px;
+    background-color: #5aaef7;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 25px;
+    align-self: center;
+    margin-top: 26px;
+}
+/* ************************************ */
+.RightNav2{
+    width: 50px;
+    height: 50px;
+    background-image: url("../Imgs/menu-png-icon-5.png");
+    background-size: cover;
+    background-position: center;
+    margin-right: 20px;
+    display: none;
+}
+.MeniItems{
+    display: none;
+}
+/* ********************************* */
+
+.ShowDataForm{
+    left: 40% !important;
+}
+
+/* ******************************Statistics************* */
+.NavStatistics{
+    width: 100%;
+    height: 83px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+}
+.NavStatistics img{
+    width: 144px;
+    height: 79px;
+    align-self: center;
+    border: none;
+    margin-left: 93px;
+}
+.NavStatistics a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 64px;
+    align-self: center;
+}
+.BigCon{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-self: center;
+}
+.CentralBodyToContain{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    background: none;
+}
+.ChooseActionIons{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    background-color: rgba(225, 226, 226, 0.6);
+    border-radius: 10px;
+    align-self: end;
+    width: 50px;
+    position: absolute;
+    right: 28px;
+    top: 40%;
+}
+.ChooseActionIons a{
+    width: 50px;
+    height: 50px;
+    align-self: center;
+    margin: 5px;
+    transition: width 0.3s linear , height 0.3s linear;
+    cursor: pointer;
+}
+
+.ControlImage1 {
+    background-image: url('../Imgs/iconfinder_299074_youtube_social_icon_64px.png');
+    display: block;
+    background-size: cover;
+}
+.ControlImage2 {
+    background-image: url('../Imgs/iconfinder_5296499_fb_facebook_facebook logo_icon_256px.png');
+    display: block;
+    background-size: cover;
+}
+.ControlImage3 {
+    background-image: url('../Imgs/iconfinder_5296515_bird_tweet_twitter_twitter logo_icon_128px.png');
+    display: block;
+    background-size: cover;
+}
+.ControlImage4 {
+    background-image: url('../Imgs/iconfinder_3225191_app_instagram_logo_media_popular_icon_64px.png');
+    display: block;
+    background-size: cover;
+}
+.ControlImage5 {
+    background-image: url('../Imgs/user.png');
+    display: block;
+    background-size: cover;
+}
+
+.ChooseIcon1 {
+    background-image: url('../Imgs/page-views.png');
+    display: block;
+    background-size: cover;
+}
+.ChooseIcon2 {
+    background-image: url('../Imgs/video-player.png');
+    display: block;
+    background-size: cover;
+}
+.ChooseIcon3 {
+    background-image: url('../Imgs/comments.png');
+    display: block;
+    background-size: cover;
+}
+.ChooseIcon4 {
+    background-image: url('../Imgs/subscribe-1.png');
+    display: block;
+    background-size: cover;
+}
+
+.ChooseActionIons a:hover {
+    width: 70px;
+    height: 70px;
+}
+.ControllBar{
+    width: 70%;
+    height: 62px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-self: center;
+    margin-bottom: 20px;
+}
+.ChangeAction{
+ width: 82px;
+height: 72px;
+align-self: center;
+border: none;
+cursor: pointer;
+}
+.CoinContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.Coins img{
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+.ControllBar a {
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #faa300;
+    color: #fff;
+    font-size: 30px;
+    border: none;
+    margin-left: 21px;
+    text-decoration: none;
+    text-align: center;
+}
+.Coins p{
+    color: #fff;
+    font-size: 20px;
+}
+.Statistics_YouTube{
+    width: 90%;
+    height: 560px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content:start;
+    overflow: hidden;
+    margin-top: 33px;
+
+}
+.Statistics_YouTube .Youtube_Views {
+    width: 90%;
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-around;
+    left: 2%;
+}
+.Youtube_Views , .Youtube_Likes{
+    width: 90%;
+    height: 60%;
+    background-color: rgba(225, 226, 226, 0.6);
+    border-radius: 20px;
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-evenly;
+    position: absolute;
+    transition: left 0.3s ease-in-out ;
+}
+.Youtube_Comment , .Youtube_Subscribe , .ProfileContent{
+    width: 90%;
+    height: 60%;
+    background-color: rgba(225, 226, 226, 0.6);
+    border-radius: 20px;
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-evenly;
+    position: absolute;
+    transition: left 0.3s ease-in-out ;
+    top: 24%;
+}
+.TakeAction {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+    .TakeAction img {
+        width: 127px;
+        height: 109px;
+        cursor: pointer;
+        border: none;
+        align-self: center;
+    }
+
+    .TakeAction p{
+        color:#fff;
+        font-size:20px;
+        align-self:center;
+        margin-top:10px
+    }
+
+    .AddItems {
+        width: 70%;
+        height: 100%;
+        align-self: center;
+        border-left: 3px #fff solid;
+    }
+.AddItems>button {
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #5AAEF7;
+    border: #fff 2px solid;
+    margin: auto;
+    margin-top: 10px;
+    display: block;
+    color: #fff;
+    font-size: 23px;
+}
+.ItemContent {
+    display: block;
+    margin: auto;
+    width: 90%;
+    height: 60px;
+    background-color: #5aaef78f;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    position: relative;
+}
+    .ItemContent > img {
+        width: 50px;
+        height: 50px;
+        align-self: center;
+        border-radius: 5px;
+        border: none;
+        position: absolute;
+        left: 19%;
+    }
+    .ItemContent > p {
+        color: #fff;
+        font-size: 25px;
+        align-self: center;
+        position: absolute;
+        left: 59%;
+    }
+
+/* ************************************** */
+
+.ControllFooter{
+    height: 60px;
+    background-color: #5aaef7ab;
+    border-radius: 10px;
+
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.ControllFooter a{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    align-self: center;
+    transition: width 0.2s linear, height 0.2s linear;
+    cursor: pointer;
+    margin: 10px;
+}
+.ControllFooter a:hover{
+    width:  65px;
+    height: 65px;
+}
+
+/* ************************************* */
+.Soon{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    width: 90%;
+    height: 309%;
+    background-color: rgba(225, 226, 226, 0.6);
+    border-radius: 20px;
+    margin: auto;
+}
+.Soon p{
+    color: #FFF;
+    font-size: 129px;
+    text-align: center;
+    align-self: center;
+}
+.Soon img{
+    width: 60px;
+    height: 60px;
+    align-self: center;
+    border: none;
+}
+.PutNumberCoins, .AddNewItem {
+    width: 286px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: start;
+    position: absolute;
+    top: -200%;
+    transition: top 0.3s ease-in-out;
+    background-color: rgba(255, 217, 0, 0.678);
+    border-radius: 20px;
+    z-index: 5;
+    height: 196px;
+}
+
+    .PutNumberCoins input, .AddNewItem input {
+        width: 90%;
+        margin: auto;
+        height: 40px;
+        background: none;
+        border: 2px solid #fff;
+        color: #fff;
+        font-size: 25px;
+    }
+
+    .PutNumberCoins button, .AddNewItem button {
+        margin: auto;
+        margin-top: auto;
+        background-color: gold;
+        width: 114px;
+        height: 43px;
+        margin-top: 0px;
+        color: #fff;
+        font-size: 25px;
+        border-radius: 13px;
+        border: none;
+    }
+
+    .AddNewItem label {
+        align-self: center;
+        font-size: 22px;
+        color: #fff;
+    }
+/* ************************************** */
+.ProfileContent .ProfileData{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.ProfileContent .ProfileData img{
+    width: 180px;
+    height: 146px;
+    border-radius: 20px;
+    align-self: center;
+    border: none;
+}
+.ProfileContent .ProfileData p{
+    color: #fff;
+    font-size: 25px;
+    align-self: center;
+}
+.ChangeData{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 42%;
+}
+.ChangeData input{
+    width: 60%;
+    height: 48px;
+    align-self: center;
+    background-color: rgba(196, 194, 194, 0.699);
+    border: 2px #fff solid;
+    color: #fff;
+    border-radius: 19px;
+    padding: 10px;
+    font-size: 22px;
+}
+.ChangeData button{
+    width: 102px;
+    height: 50px;
+    background-color: chartreuse;
+    border-radius: 10px;
+    border: none;
+    align-self: center;
+    font-size: 22px;
+    color: #fff;
+}
+/* ************************************** */
+/* ************************************** */
+/* ************************************** */
+/* ************************************** */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait){
+    .Statistics_YouTube .Youtube_Views {
+        width: 90%;
+        height: 40%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+    }
+    .Youtube_Comment, .Youtube_Subscribe, .ProfileContent {
+        width: 90%;
+        height: 41%;
+        background-color: rgba(225, 226, 226, 0.6);
+        border-radius: 20px;
+        align-self: center;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        position: absolute;
+        transition: left 0.3s ease-in-out;
+        top: 18%;
+    }
+
+    .ChooseActionIons{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        background-color: rgba(225, 226, 226, 0.6);
+        border-radius: 10px;
+        align-self: end;
+        width: 50px;
+        position: absolute;
+        right: 10px;
+        top: 28%;
+    }
+    .Youtube_Views, .Youtube_Likes {
+        width: 90%;
+        height: 41%;
+        background-color: rgba(225, 226, 226, 0.6);
+        border-radius: 20px;
+        align-self: center;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        position: absolute;
+        transition: left 0.3s ease-in-out;
+    }
+    .CentrallContainer .ControllBuutons {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        width: 374px;
+        height: 280px;
+        margin-top: 126px;
+        margin-right: -31px !important;
+    }
+}
+@media only screen and (max-width: 600px) {
+
+    .NavStatistics img{
+        width: 144px;
+        height: 79px;
+        align-self: center;
+        border: none;
+        margin-left: 34px;
+    }
+   
+    .Youtube_Comment , .Youtube_Subscribe , .ProfileContent{
+        width: 90%;
+        height: 60%;
+        background-color: rgba(225, 226, 226, 0.6);
+        border-radius: 20px;
+        align-self: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content:space-evenly;
+        position: absolute;
+        transition: left 0.3s ease-in-out ;
+        top: 24%;
+    }
+    .Statistics_YouTube .Youtube_Views {
+        width: 90%;
+        height: 60%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+    }
+    .ChooseActionIons{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        background-color: rgba(225, 226, 226, 0.6);
+        border-radius: 10px;
+        align-self: end;
+        width: 50px;
+        position: absolute;
+        right: 10px;
+        top: 36%;
+    }
+    .AddItems {
+        width: 70%;
+        height: 100%;
+        align-self: center;
+        border-left: 0px #fff solid;
+    }
+    .Youtube_Views, .Youtube_Likes {
+        width: 90%;
+        height: 60%;
+        background-color: rgba(225, 226, 226, 0.6);
+        border-radius: 20px;
+        align-self: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        position: absolute;
+        transition: left 0.3s ease-in-out;
+    }
+    .RightNav2{
+        width: 50px;
+        height: 50px;
+        background-image: url("../Imgs/menu-png-icon-5.png");
+        background-size: cover;
+        background-position: center;
+        margin-right: 20px;
+        display: block!important;
+        align-self: center;
+    }
+    .RightNav{
+        display: none !important;
+    }
+    .Footer{
+        width: 100%;
+        height: 300px;
+        background-color: #5aaef7b4;
+        display: flex;
+        flex-direction:column;
+        flex-wrap: nowrap;
+        justify-content:space-between;
+    }
+    .footerleft{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        margin:auto !important;
+        margin-top: 10px;
+    }
+    .footerright{
+        display: flex;
+        flex-direction:column;
+        flex-wrap: nowrap;
+        justify-content:space-evenly; 
+        margin:auto !important;
+        margin-top: 10px;
+    }
+    .Footer .footerleft > div {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        align-self: flex-start;
+        margin-top: 9px;
+    }
+    .Footer {
+        width: 100%;
+        height: 365px;
+        background-color: #5aaef7b4;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+    }
+    .Body1 .Nav img {
+        width: 144px;
+        height: 79px;
+        align-self: center;
+        border: none;
+        margin-left: 23px;
+    }
+    .MeniItems{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: start;
+        list-style: none;
+        position: absolute;
+        top: 0px;
+        right: -100%;
+        transition: right 0.3s linear;
+        background-color: #5aaef7cc;
+        border-radius: 11px;
+        width: 121px;
+        height: 224px;
+        z-index: 4;
+    }
+    .MeniItems li{
+        margin-top: 10px;
+        list-style: none;
+        align-self: center;
+    }
+    .MeniItems li a{
+        cursor: pointer;
+        color: #fff;
+        font-size: 25px;
+        text-decoration: none;
+    }
+    .ShowDataForm{
+        left: 11% !important;
+    }
+    .Body1>p , 
+    .Body1>button{
+        display: none !important;
+    }
+
+    .ChangeData button {
+        width: 102px;
+        height: 50px;
+        background-color: chartreuse;
+        border-radius: 10px;
+        border: none;
+        align-self: center;
+        font-size: 22px;
+        color: #fff;
+        margin-top: 5px;
+    }
+    .ChangeData input {
+        width: 60%;
+        height: 48px;
+        align-self: center;
+        background-color: rgba(196, 194, 194, 0.699);
+        border: 2px #fff solid;
+        color: #fff;
+        border-radius: 19px;
+        padding: 10px;
+        font-size: 22px;
+        align-self: center;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .ChangeData {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        width: 117%;
+        align-self: center;
+    }
+
+        .ChangeData input {
+            width: 60%;
+            height: 23px;
+            align-self: center;
+            background-color: rgba(196, 194, 194, 0.699);
+            border: 2px #fff solid;
+            color: #fff;
+            border-radius: 19px;
+            padding: 10px;
+            font-size: 22px;
+            align-self: center;
+            margin: auto;
+            margin-top: auto;
+            margin-top: 5px;
+        }
+    .ChangeData {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        width: 117%;
+        align-self: center;
+    }
+    .ProfileContent {
+        width: 90%;
+        height: 60%;
+        background-color: rgba(225, 226, 226, 0.6);
+        border-radius: 20px;
+        align-self: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        position: absolute;
+        transition: left 0.3s ease-in-out;
+        top: 14%;
+    }
+    .GeneralBody form {
+        align-self: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: start;
+        width: 319px;
+        background-color: #234e7982;
+        height: 366px;
+        border-radius: 16px;
+        position: relative;
+        top: -35px;
+    }
+    .DeleteIcon {
+        cursor: pointer;
+        left: 88% !important;
+        display:none !important
+    }
+    .ItemContent > p {
+        color: #fff;
+        font-size: 19px !important;
+        align-self: center;
+        position: absolute;
+        left: 59%;
+    }
+    .ControllFooter {
+        height: 60px;
+        background-color: #5aaef7ab;
+        border-radius: 10px;
+        align-self: center;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        margin-top: 10px;
+        z-index: 3;
+        position: relative;
+    }
+    .LuckyRate {
+        width: 80%;
+        height: 70px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-self: center;
+        margin-top: 15px;
+        display: none !important;
+    }
+    .CentrallContainer {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+    }
+
+        .CentrallContainer .ControllBuutons {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: nowrap;
+            justify-content: space-evenly;
+            width: 374px;
+            height: 280px;
+            margin-top: -743px;
+            margin-right: 199px;
+        }
+}
+span:hover {
+    text-decoration: underline;
+}

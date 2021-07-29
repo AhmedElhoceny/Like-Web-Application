@@ -1,0 +1,106 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/Style/Style.css">
+    <link rel="icon" href="~/Logos/Like+.png">
+    <title>Like+</title>
+</head>
+<body style="overflow-x: hidden;">
+    <div class="PlaceHolder" onclick="HideAllForms()"></div>
+    <div class="Body1">
+        <div class="Nav">
+            <img src="~/Logos/Like.png" />
+            <ul class="RightNav">
+                <li><a href="#">Home</a></li>
+                <li><a onclick="Starts()">Stars</a></li>
+                <li><a onclick="Targets()">Targets</a></li>
+                <li><a onclick="ShowLogIn()">LogIn</a></li>
+                <a asp-action="ArabicPage" asp-controller="Home" style="cursor:pointer">AR</a>
+            </ul>
+            <div class="RightNav2" onclick="ShowMenu()" style="cursor: pointer;"></div>
+        </div>
+        @if (ViewBag.messege != null)
+        {
+            <p style="color:red">@(ViewBag.messege)</p>
+        }
+        <p>Support For <br>Marks    </p>
+        <button onclick="Start()">Start</button>
+    </div>
+    <div class="body2">
+        <h2>Our Services</h2>
+        <p>Sharing Support is Our Target <br> And Make Your Product Greater </p>
+    </div>
+    <div class="body3">
+        <h2>Stars</h2>
+        <div>
+            <img src="~/Imgs/pexels-anwar-hossain-1055071.jpg">
+            <img src="~/Imgs/pexels-andrea-piacquadio-774909.jpg">
+            <img src="~/Imgs/pexels-pixabay-220453.jpg">
+        </div>
+    </div>
+    <div class="body4">
+        <h2>Targets</h2>
+        <div>
+            <img src="~/Imgs/iconfinder_5296499_fb_facebook_facebook logo_icon_256px.png">
+            <img src="~/Imgs/iconfinder_5296515_bird_tweet_twitter_twitter logo_icon_128px.png">
+            <img src="~/Imgs/iconfinder_299074_youtube_social_icon_64px.png">
+            <img src="~/Imgs/iconfinder_3225191_app_instagram_logo_media_popular_icon_64px.png">
+        </div>
+    </div>
+    <div class="Footer">
+        <div class="footerleft">
+            <div>
+                <img src="~/Imgs/iconfinder_5296499_fb_facebook_facebook logo_icon_256px.png">
+                <p>Like@yahoo.com</p>
+            </div>
+            <div>
+                <img src="~/Imgs/smartphones.png">
+                <p>01026382242</p>
+            </div>
+            <div>
+                <img src="~/Imgs/gmail.png">
+                <p>Like@gmail.com</p>
+            </div>
+        </div>
+        <div class="footerright">
+            <textarea cols="30" rows="10"></textarea>
+            <button>Send</button>
+        </div>
+    </div>
+    <form class="LogIn ShowDataForm" asp-action="LogIn" asp-controller="Home">
+        <input required type="email" name="Email" placeholder="Your Email....">
+        <input required type="password" name="Password" placeholder="Your Password...">
+        <button type="submit">LogIn</button>
+        <p onclick="SignUp()" style="cursor: pointer;">Create Account</p>
+    </form>
+    <form class="Sign" asp-action="SignUp" asp-controller="Home" enctype="multipart/form-data">
+        <input required type="text" name="UserName" placeholder="UserName....">
+        <input required type="email" name="Email" placeholder="Email....">
+        <input required type="password" name="Password" placeholder="Password...">
+        <label>BirthDay</label>
+        <input required name="date" style="margin-top: 0px;" type="date">
+        <label>Your Photo</label>
+        <input required name="Image" style="margin-top: 0px;" type="file">
+        <button type="submit">SignIn</button>
+    </form>
+    <ul class="MeniItems">
+        <li><a href="#">Home</a></li>
+        <li><a onclick="Starts()">Stars</a></li>
+        <li><a onclick="Targets()">Targets</a></li>
+        <li><a onclick="ShowLogIn()">LogIn</a></li>
+        <li><a asp-action="ArabicPage" asp-controller="Home">Arabic</a></li>
+    </ul>
+    <script src="./Scripts/Script.js"></script>
+</body>
+</html>
